@@ -7,6 +7,7 @@ This repository contains examples for learning Google's Agent Development Kit (A
 ### Setup Environment
 
 You only need to create one virtual environment for all examples in this course. Follow these steps to set it up:
+v
 
 ```bash
 # Create virtual environment in the root directory
