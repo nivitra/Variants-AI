@@ -1,4 +1,4 @@
-# Agent Development Kit (ADK) Crash Course
+# Variants - AI agent workshop
 
 best Research paper : https://arxiv.org/abs/2503.12687
 
