@@ -1,6 +1,6 @@
 # Variants - AI agent workshop
 
-best Research paper : https://arxiv.org/abs/2503.12687
+best Research paper : https://arxiv.org/abs/2503.12687 on ai agents 
 
 This repository contains examples for learning Google's Agent Development Kit (ADK), a powerful framework for building LLM-powered agents.
 
